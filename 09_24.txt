@@ -1,0 +1,48 @@
+Here i am posting my daily progress...✌️
+
+C++ relies on functionalities to access various functionality, to perform basic operations like input and output, we use cin & cout operation.
+ex. int x;
+cin>>x;
+cout<<x;
+
+These operations included in #include<iostream> library.
+We can use #include<bits/stdc++.h> library that includes majority of c++ libraries collection.
+
+We use endl; to terminate line in a code.
+ex. cout<<"Let's Code"<<endl;
+
+We use using namespace std; at the beginning of the programme so that we don't have to explicitly specifying std:: each time we use input, output, or line termination operation.
+
+
+
+Data are stored in some container commonly known as Datatypes .
+
+integer: 4 bytes
+short int : 2 bytes
+long int : 8 bytes
+
+float : 4 bytes
+double : 8 bytes
+
+char : 1 byte
+
+We can store multiple words in a string by using getline function as :
+getline(cin, string_name);
+
+
+
+
+Conditional statements are allows you to make decisions when certain conditions are met, when the desired conditions are met, you can execute your block of code.
+
+if-else statements : 
+if block is executed when the condition inside it is true, otherwise else block of code executes. 
+
+if-else ladder statements : 
+In if-else-ladder, we use ladder of else-if statements, when we have multiple conditions to check.
+
+
+
+There are two types of complexity :
+Time Complexity
+Space Complexity
+
